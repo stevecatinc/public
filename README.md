@@ -1,3 +1,3 @@
 # public
 
-![title](straw.jpg)
+# :cat:
